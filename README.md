@@ -4,4 +4,4 @@ This program takes rainfall values from each month and displays the total, avera
 
 ## Final Assigment from CS1410 - Intro to CS with C++
 
-### Grade received: A
+### Grade received: B
